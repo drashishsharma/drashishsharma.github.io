@@ -14,11 +14,11 @@ Release Date:
 
 Author: 
 =======================================================================
-Sanatan Shrivastava (http://sanatanshrivastava.github.io/)
+Sanatan Shrivastava (http://sanatan-shrivastava.github.io/)
 
 Contact:
 =======================================================================
-Web: http://sanatanshrivastava.github.io/
+Web: http://sanatan-shrivastava.github.io/
 Email: themes@3rdwavemedia.com
 Twitter: @3rdwave_themes
 
